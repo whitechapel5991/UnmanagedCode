@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PowerStateManagement.Test": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
